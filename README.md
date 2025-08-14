@@ -15,7 +15,6 @@ React Native ███████████   100%
 TypeScript   █████████░░   80%
 
 Python       ████████░░░   70%
-
 HTML/CSS     ███████████   100%
 
 Supabase     ███████░░░░   60%
@@ -25,11 +24,17 @@ AWS Amplify  ████████░░░   70%
 Node.js      ███████░░░░   60%
 
 C#           ██████░░░░░   50%
+
 Svelte       ██████░░░░░   50%
+
 Tailwind     ████████░░░   70%
+
 Node.js      ████████░░░   70%
+
 AWS          ████████░░░   70%
+
 Spring-Boot  ████████░░░   70%
+
 <!--
 **IbrahimAbduqani/IbrahimAbduqani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
