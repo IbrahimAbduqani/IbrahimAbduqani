@@ -4,7 +4,7 @@ I am a Masters Student in Computerscience 🥸👨🏾‍💻. I am a Software D
   
 
 
-JavaScript     ███████████   100%
+JavaScript           ███████████   100%
 
 Java           ███████████   100%
 
