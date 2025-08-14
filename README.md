@@ -1,7 +1,7 @@
 ## Hi you:)👋
 I am a Masters Student in Computerscience 🥸👨🏾‍💻. I am a Software Developer with key interests in Full-Stack Development 🕸 Mobile Development 📲
 
-Java           ███████████   100%
+Java           ███████████   100% 
 
 JavaScript     ███████████   100%
 
