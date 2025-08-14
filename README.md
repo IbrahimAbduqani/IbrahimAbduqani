@@ -15,6 +15,7 @@ React Native ███████████   100%
 TypeScript   █████████░░   80%
 
 Python       ████████░░░   70%
+
 HTML/CSS     ███████████   100%
 
 Supabase     ███████░░░░   60%
