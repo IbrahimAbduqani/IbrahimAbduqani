@@ -1,39 +1,52 @@
-## Hi you:)👋
-I am a Masters Student in Computerscience 🥸👨🏾‍💻. I am a Software Developer with key interests in Full-Stack Development 🕸 Mobile Development 📲
+Hi there 👋
 
-Java           ███████████   100% 
+Ich bin Ibrahim Abduqani – Masterstudent in Informatik 🎓 und leidenschaftlicher Softwareentwickler 👨🏾‍💻.
+Mein Fokus liegt auf Webentwicklung 🌐 und Cloud-Technologien☁️.
 
-JavaScript     ██████░░░░░   50%
+Ich entwickle skalierbare Anwendungen, arbeite mit modernen Frameworks und setze auf saubere, performante Architekturen. Mein Ziel ist es, innovative Softwarelösungen zu schaffen, die echten Mehrwert bringen.
 
-React          █████░░░░░░   40%
+🚀 Tech Stack
+Programmiersprachen
 
-TypeScript     █████████░░   80%
+Java – meine stärkste Sprache (Spring Boot, verteilte Systeme, Enterprise-Apps)
 
-Python         ██████░░░░░   50%
+TypeScript & JavaScript – für moderne Webentwicklung (React, Node.js, Svelte)
 
-HTML/CSS       ███████████   100%
+Python – für Data Science, Automatisierung & KI-Projekte
 
-Node.js        ███████░░░░   60%
+HTML/CSS & Tailwind – für responsive UI-Entwicklung
 
-Svelte         ██████░░░░░   50%
+Tools, Frameworks & Technologien
 
-Tailwind       ████████░░░   70%
+Backend: Spring Boot, Node.js, Quarkus, REST APIs, Docker, Kubernetes
 
-Node.js        ████████░░░   70%
+Frontend: React, Svelte, Vue.js, TailwindCSS
 
-Spring-Boot    ████████░░░   70%
+Datenbanken: MySQL, Oracle, Redis
 
-<!--
-**IbrahimAbduqani/IbrahimAbduqani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud: GitHub Actions, CI/CD, Grafana, Prometheus, Cloud Computing
 
-Here are some ideas to get you started:
+ERP & Business Tools: SAP S/4 HANA, Microsoft Dynamics, Jira, Trello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Meine Skills (visualisiert)
+
+Java ███████████ 100%
+TypeScript █████████░░ 80%
+Spring Boot ████████░░░ 70%
+Node.js ████████░░░ 70%
+Tailwind ████████░░░ 70%
+JavaScript ██████░░░░░ 50%
+Python ██████░░░░░ 50%
+Svelte ██████░░░░░ 50%
+React █████░░░░░░ 40%
+HTML/CSS ███████████ 100%
+
+🌱 Aktuell lerne ich
+
+Cloud-native Architekturen
+
+KI & Machine Learning (LLMs, Chatbots, Multi-Agent-Methoden)
+
+Best Practices in Full-Stack & Webentwicklung
+
+🤝 Lass uns connecten
