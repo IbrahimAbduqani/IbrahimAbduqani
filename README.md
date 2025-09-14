@@ -27,35 +27,34 @@ Datenbanken: MySQL, Oracle, Redis
 DevOps & Cloud: GitHub Actions, CI/CD, Grafana, Prometheus, Cloud Computing
 
 ERP & Business Tools: SAP S/4 HANA, Microsoft Dynamics, Jira, Trello
+
+
+**📊 Meine Skills (visualisiert)**
+
+**Java ███████████ 100%**
+
+**TypeScript █████████░░ 80%**
 **
-📊 Meine Skills (visualisiert)**
+Spring Boot ████████░░░ 70%**
 
-**Java ███████████ 100%
+**Node.js ████████░░░ 70%**
 
-TypeScript █████████░░ 80%
+**Tailwind ████████░░░ 70%**
 
-Spring Boot ████████░░░ 70%
+**JavaScript ██████░░░░░ 50%**
 
-Node.js ████████░░░ 70%
+**Python ██████░░░░░ 50%**
 
-Tailwind ████████░░░ 70%
+**Svelte ██████░░░░░ 50%**
 
-JavaScript ██████░░░░░ 50%
+**React █████░░░░░░ 40%**
 
-Python ██████░░░░░ 50%
+**HTML/CSS ███████████ 100%**
 
-Svelte ██████░░░░░ 50%
+🌱 Aktuell lerne ich **Cloud-native Architekturen**
 
-React █████░░░░░░ 40%
+**KI & Machine Learning (LLMs, Chatbots, Multi-Agent-Methoden)**
 
-HTML/CSS ███████████ 100%**
-**
-🌱 Aktuell lerne ich**
-
-Cloud-native Architekturen
-
-KI & Machine Learning (LLMs, Chatbots, Multi-Agent-Methoden)
-
-Best Practices in Full-Stack & Webentwicklung
+**Best Practices in Full-Stack & Webentwicklung**
 
 🤝 Lass uns connecten
