@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there :)👋**
 
 Ich bin Ibrahim Abduqani – Masterstudent in Informatik 🎓 und leidenschaftlicher Softwareentwickler 👨🏾‍💻.
 Mein Fokus liegt auf Webentwicklung 🌐 und Cloud-Technologien☁️.
